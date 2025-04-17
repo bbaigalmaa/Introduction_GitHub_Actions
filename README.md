@@ -48,4 +48,4 @@ Custom Actions:
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/github-actions-examples.git
+   git clone https://github.com/bbaigalmaa/github-actions-examples.git
